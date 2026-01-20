@@ -1,7 +1,9 @@
 <div align="center">
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hi+There+%F0%9F%91%8B+I+am+XiaoChuangll;HarmonyOS+%2F+Vue+%2F+Node.js+Developer" alt="Typing SVG" />
 
   <br/>
+
 
   <!-- 访客统计（可选，如果你想要） -->
   ![Profile views](https://komarev.com/ghpvc/?username=XiaoChuangll&color=00C8FF&style=for-the-badge)

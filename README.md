@@ -77,8 +77,7 @@
 </div>
 
 <!-- 隐藏的GitHub贡献墙：可选开启，增加视觉丰富度 -->
-<!--
+
 <br/><div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoChuangll&theme=tokyonight&hide_border=true&fire=00C8FF&ring=00C8FF" alt="GitHub Streak Stats" width="100%"/>
 </div>
--->

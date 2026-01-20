@@ -68,11 +68,6 @@
 
 <br/>
 
-<div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/quote?theme=tokyonight" alt="Random Dev Quote"/>
-
-  <br/><br/>
 
   Thanks for visiting 💙 &nbsp;&nbsp; Keep coding & keep grooving 🎶
 

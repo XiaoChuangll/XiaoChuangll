@@ -10,7 +10,7 @@
   <br/>
 
   <!-- 奖杯区 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=XiaoChuangll&theme=tokyonight&column=6&row=2&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=XiaoChuangll&theme=tokyonight&column=6&row=2&no-frame=true&margin-w=15" alt="GitHub Trophies" /> -->
 
   <br/><br/>
 

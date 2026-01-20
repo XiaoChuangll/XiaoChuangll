@@ -15,18 +15,8 @@
   <br/><br/>
 
   <!-- 贡献统计 + 连击 -->
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=XiaoChuangll&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="XiaoChuangll's GitHub Stats" width="100%"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=XiaoChuangll&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%"/>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XiaoChuangll&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="XiaoChuangll's GitHub Stats" width="100%"/>
+      
 
   <!-- 最常用语言 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoChuangll&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css&custom_title=Most%20Used%20Languages" alt="Top Languages" width="60%"/>

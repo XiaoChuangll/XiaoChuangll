@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 动态打字效果：修复左右截断，适配全尺寸，调整行高避免遮挡 -->
+  <!-- 动态打字效果 -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00C8FF&center=true&vCenter=true&width=800&height=70&lines=Hi+There+%F0%9F%91%8B+I+am+XiaoChuangll;HarmonyOS+NEXT+%2F+Vue3+%2F+Node.js+Developer" alt="Typing SVG" style="max-width: 100%;" />
 
   <br/>
@@ -8,14 +8,12 @@
   <!-- 访客统计 -->
   <img src="https://komarev.com/ghpvc/?username=XiaoChuangll&color=00C8FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
-  <br/><br/>
 
-  <!-- 贡献统计：修复展示错误，限制宽高+适配移动端，移除冲突参数 -->
+  <!-- 贡献统计 -->
   <img src="https://github-readme-stats.vercel.app/api?username=XiaoChuangll&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="XiaoChuangll's GitHub Stats" width="90%" max-width="600px"/>
       
-  <br/><br/>
 
-  <!-- 最常用语言：优化适配，和贡献统计视觉对齐 -->
+  <!-- 最常用语言 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoChuangll&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css,shell&custom_title=✨+Most+Used+Languages&title_color=00C8FF" alt="Top Languages" width="60%" max-width="400px"/>
 
 </div>
@@ -76,9 +74,8 @@
   <sub>HarmonyOS Open Source · 让万物互联更简单 📱💻</sub>
 </div>
 
-<!-- 隐藏的GitHub贡献墙：修复样式，和主色调统一 -->
-<!--
+<!-- GitHub贡献墙 -->
+
 <br/><div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoChuangll&theme=tokyonight&hide_border=true&fire=00C8FF&ring=00C8FF" alt="GitHub Streak Stats" width="90%" max-width="600px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaoChuangll&theme=tokyonight&hide_border=true&bg_color=1a1b27&color=00C8FF&line=00C8FF&point=ffffff&area=true&area_color=00C8FF" alt="Activity Graph" width="90%" max-width="600px"/>
 </div>
--->

@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hi+There+%F0%9F%91%8B+I+am+XiaoChuangll;HarmonyOS+%2F+Vue+%2F+Node.js+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Hi+There+%F0%9F%91%8B+I+am+XiaoChuangll;HarmonyOS+%2F+Vue+%2F+Node.js+Developer" alt="Typing SVG" />
 
   <br/>
-
+  
   <!-- 访客统计 -->
   <img src="https://komarev.com/ghpvc/?username=XiaoChuangll&color=00C8FF&style=for-the-badge" alt="Profile views" />
 
@@ -14,7 +14,7 @@
 
   <br/><br/>
 
-  <!-- 贡献统计 + 连击 -->
+  <!-- 贡献统计 -->
   <img src="https://github-readme-stats.vercel.app/api?username=XiaoChuangll&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="XiaoChuangll's GitHub Stats" width="100%"/>
       
 

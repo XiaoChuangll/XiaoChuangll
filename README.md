@@ -4,11 +4,15 @@
 
   <br/>
 
-  <!-- 访客统计（可选，如果你想要） -->
-  <!-- ![Profile views](https://komarev.com/ghpvc/?username=XiaoChuangll&color=00C8FF&style=for-the-badge) -->
+  <!-- 访客统计 -->
+  <img src="https://komarev.com/ghpvc/?username=XiaoChuangll&color=00C8FF&style=for-the-badge" alt="Profile views" />
 
-  <!-- 奖杯区 - 炫酷成就展示 -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=XiaoChuangll&theme=tokyonight&column=6&row=2&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+  <br/>
+
+  <!-- 奖杯区 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=XiaoChuangll&theme=tokyonight&column=6&row=2&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+
+  <br/><br/>
 
   <!-- 贡献统计 + 连击 -->
   <table>
@@ -22,7 +26,9 @@
     </tr>
   </table>
 
-  <!-- 最常用语言（代码使用率） - 重点展示你的技术栈 -->
+  <br/>
+
+  <!-- 最常用语言 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoChuangll&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css&custom_title=Most%20Used%20Languages" alt="Top Languages" width="60%"/>
 
 </div>
@@ -36,22 +42,6 @@
 - 🎵 热爱音乐播放器 UI/UX 设计与实现
 - 🏋️‍♂️ 也写过健身房管理系统，关注实际业务场景数字化
 - 📫 欢迎 Star & Fork 我的项目～也欢迎一起交流鸿蒙生态！
-
-<br/>
-
-## 🔥 Pinned Projects
-
-<div align="center">
-
-| 项目 | 描述 | 技术栈 | Stars |
-|------|------|--------|-------|
-| **[Uptime-Monitor](https://github.com/XiaoChuangll/Uptime-Monitor)** | 服务监控 + 音乐点播 + 信息发布 一站式平台 | Vue 3 + Express + SQLite | 34 ⭐ |
-| **[OpenStore](https://github.com/XiaoChuangll/OpenStore)** | 鸿蒙第三方应用商店（发现、投稿、排行榜） | Vue | 11 ⭐ |
-| **[Melotopia](https://github.com/XiaoChuangll/Melotopia)** | 鸿蒙原生音乐播放器 - 全场景适配 | HarmonyOS (ArkTS) | 17 ⭐ |
-| **[NeuMusic](https://github.com/XiaoChuangll/NeuMusic)** | 新拟态风格的网易云第三方播放器 | HTML + JS | 5 ⭐ |
-| **[SPlayer](https://github.com/XiaoChuangll/SPlayer)** | 简约在线音乐播放器（支持解灰/VIP） | Vue | 3 ⭐ |
-
-</div>
 
 <br/>
 
@@ -69,11 +59,5 @@
 <br/>
 
 <div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/quote?theme=tokyonight" alt="Random Dev Quote"/>
-
-  <br/><br/>
-
   Thanks for visiting 💙 &nbsp;&nbsp; Keep coding & keep grooving 🎶
-
 </div>

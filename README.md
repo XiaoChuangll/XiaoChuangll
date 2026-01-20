@@ -36,35 +36,22 @@
 <div align="left">
 
 ## 🛠️ Tech Stack
-### 📱 鸿蒙开发核心
-<div align="center">
-  <img src="https://img.shields.io/badge/HarmonyOS-NEXT-007DFF?style=for-the-badge&logo=harmonyos&logoColor=white" alt="HarmonyOS NEXT"/>
-  <img src="https://img.shields.io/badge/ArkTS-1890FF?style=for-the-badge&logo=typescript&logoColor=white" alt="ArkTS"/>
-  <img src="https://img.shields.io/badge/ArkUI-67C23A?style=for-the-badge&logo=harmonyos&logoColor=white" alt="ArkUI"/>
-  <img src="https://img.shields.io/badge/HAP-909399?style=for-the-badge&logo=android-studio&logoColor=white" alt="HarmonyOS HAP"/>
+<!-- 技术栈改为流式布局，适配移动端自动换行 -->
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 10px 0;">
+  <!-- 鸿蒙核心 -->
+  <img src="https://img.shields.io/badge/HarmonyOS-NEXT-007DFF?style=flat-square&logo=harmonyos" alt="HarmonyOS"/>
+  <img src="https://img.shields.io/badge/ArkTS-1890FF?style=flat-square&logo=typescript" alt="ArkTS"/>
+  <img src="https://img.shields.io/badge/ArkUI-67C23A?style=flat-square&logo=harmonyos" alt="ArkUI"/>
+  <!-- 前端后端 -->
+  <img src="https://img.shields.io/badge/Vue.js-3-4FC08D?style=flat-square&logo=vue.js" alt="Vue3"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" alt="Express"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite" alt="SQLite"/>
+  <!-- 工具 -->
+  <img src="https://img.shields.io/badge/DevEco-007DFF?style=flat-square&logo=harmonyos" alt="DevEco"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite" alt="Vite"/>
 </div>
 
-### 🌐 前端&后端开发
-<div align="center">
-  <img src="https://img.shields.io/badge/Vue.js-3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue 3"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
-
-### 🛠️ 开发工具&工程化
-<div align="center">
-  <img src="https://img.shields.io/badge/DevEco+Studio-007DFF?style=for-the-badge&logo=harmonyos&logoColor=white" alt="DevEco Studio"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</div>
-
-</div>
 
 <br/><br/>
 

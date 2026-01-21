@@ -15,7 +15,7 @@
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=XiaoChuangll&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="XiaoChuangll's GitHub Stats" width="80%" max-width="600px"/> -->
       
   <!-- 常用语言 -->
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoChuangll&theme=default_repocard&layout=compact)
+  ![Most Used Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoChuangll&theme=default_repocard&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoChuangll&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css,shell&custom_title=✨+Most+Used+Languages&title_color=00C8FF))
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoChuangll&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css,shell&custom_title=✨+Most+Used+Languages&title_color=00C8FF" alt="Top Languages" width="80%" max-width="400px"/> -->
 
 </div>
